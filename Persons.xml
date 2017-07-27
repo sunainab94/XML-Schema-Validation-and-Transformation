@@ -1,0 +1,92 @@
+<Persons>
+<Person>
+<Name>
+<First>Robert</First>
+<Last>Doe</Last>
+</Name>
+<Credential>
+<Id>robert01</Id>
+<Password Encryption="Yes">Password01</Password>
+</Credential>
+<Phone>
+<Work>4804111770</Work>
+<Cell Provider="TMobile">4804111770</Cell>
+</Phone>
+<Category>Work</Category>
+</Person>
+<Person>
+<Name>
+<First>Pema</First>
+<Last>Yang Chen Rana</Last>
+</Name>
+<Credential>
+<Id>pema02</Id>
+<Password Encryption="Yes">Password02</Password>
+</Credential>
+<Phone>
+<Work>5037241844</Work>
+<Cell>5037241844</Cell>
+</Phone>
+<Category>Friend</Category>
+</Person>
+<Person>
+<Name>
+<First>Jackie</First>
+<Last>Chan</Last>
+</Name>
+<Credential>
+<Id>jack03</Id>
+<Password Encryption="No">Password03</Password>
+</Credential>
+<Phone>
+<Work>1206922086</Work>
+<Cell>1206922086</Cell>
+</Phone>
+<Category>Friend</Category>
+</Person>
+<Person>
+<Name>
+<First>Charlotte</First>
+<Last>Roose</Last>
+</Name>
+<Credential>
+<Id>charlotte04</Id>
+<Password Encryption="Yes">Password04</Password>
+</Credential>
+<Phone>
+<Work>7256922086</Work>
+<Cell Provider="Verizon">7256922086</Cell>
+</Phone>
+<Category>Work</Category>
+</Person>
+<Person>
+<Name>
+<First>Mitra</First>
+<Last>Vinda</Last>
+</Name>
+<Credential>
+<Id>mitra09</Id>
+<Password Encryption="No">Password09</Password>
+</Credential>
+<Phone>
+<Work>4804109907</Work>
+<Cell Provider="Verizon">4804109907</Cell>
+</Phone>
+<Category>Family</Category>
+</Person>
+<Person>
+<Name>
+<First>Dr Deepak</First>
+<Last>Chen</Last>
+</Name>
+<Credential>
+<Id>deep05</Id>
+<Password Encryption="No">Password05</Password>
+</Credential>
+<Phone>
+<Work>4804101808</Work>
+<Cell Provider="TMobile">4804101756</Cell>
+</Phone>
+<Category>Work</Category>
+</Person>
+</Persons>

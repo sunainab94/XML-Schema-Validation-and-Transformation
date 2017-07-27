@@ -1,0 +1,57 @@
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\ApplicationInsights.config
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Assignment4.dll.config
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Assignment4.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Assignment4.pdb
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.Web.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.ApplicationInsights.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.Web.xml
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Microsoft.ApplicationInsights.xml
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.dll
+c:\users\sbyralin\documents\visual studio 2015\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\ApplicationInsights.config
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Assignment4.dll.config
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Assignment4.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Assignment4.pdb
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.Web.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.Web.xml
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.dll
+C:\Users\Sunaina\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\ApplicationInsights.config
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Assignment4.dll.config
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Assignment4.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Assignment4.pdb
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.Web.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.Web.xml
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\obj\Debug\Assignment4.dll
+C:\Users\Sunaina\Desktop\assignment\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
